@@ -15,3 +15,6 @@ AD Diagnostics: Gain deep insights into Active Directory health with diagnostic 
 Uptime Monitoring: Keep a vigilant eye on system uptime, empowering administrators with historical data and real-time updates. NetOpsVA ensures continuity by alerting teams to potential downtime risks.
 
 Connected NIC Statistics: Optimize network connectivity with detailed statistics on Connected Network Interface Cards (NICs). Identify performance bottlenecks, allocate bandwidth efficiently, and maintain a responsive network.
+
+Email: netopsva@gmail.com
+site: https://netopsva.com
